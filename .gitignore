@@ -1,0 +1,7 @@
+# Ignore IntelliJ configuration files.
+.idea/workspace.xml
+*.jar
+build/
+dist/
+out/
+lib/
