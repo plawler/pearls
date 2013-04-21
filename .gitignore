@@ -1,5 +1,6 @@
 # Ignore IntelliJ configuration files.
 .idea/workspace.xml
+.idea/gradle.xml
 *.jar
 build/
 dist/
